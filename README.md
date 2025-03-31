@@ -55,3 +55,4 @@ Cek versi
   Setelah Running, tekan Enter untuk bergabung dengan testnet (pilih opsi Y)
 
 # Login 
+Open Browser http://localhost:3000/ & Login
