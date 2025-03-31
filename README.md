@@ -10,6 +10,7 @@ GPU (officially supported):
 - RTX 4090
 - A100
 - H100
+
 Install Python 
 <pre> <code> sudo apt install python3.10-venv </code> </pre>
 
