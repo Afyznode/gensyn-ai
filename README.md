@@ -10,6 +10,26 @@ GPU (officially supported):
 - RTX 4090
 - A100
 - H100
+Install Python 
+<pre> <code> sudo apt install python3.10-venv </code> </pre>
+
+<pre> <code> sudo apt install -y curl <pre> <code>
+
+# Install Node.js (versi LTS)
+<pre> <code> curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+sudo apt install -y nodejs <pre> <code> 
+
+# Cek versi
+<pre> <code>  node -v
+npm -v <pre> <code> 
+
+# Install Yarn
+<pre> <code> npm install --global yarn <pre> <code> 
+
+# Cek versi
+yarn -v
+
+
 
 # Install Dependencies
 1. Update System Packages
@@ -29,3 +49,8 @@ GPU (officially supported):
 5. Jalankan RL Swarm 
 <pre> <code>  chmod +x run_rl_swarm.sh
   ./run_rl_swarm.sh </code> </pre>
+
+
+  Setelah Running, tekan Enter untuk bergabung dengan testnet (pilih opsi Y)
+
+# Login 
