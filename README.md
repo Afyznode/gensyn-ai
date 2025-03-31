@@ -13,18 +13,18 @@ GPU (officially supported):
 Install Python 
 <pre> <code> sudo apt install python3.10-venv </code> </pre>
 
-<pre> <code> sudo apt install -y curl <pre> <code>
+<pre> <code> sudo apt install -y curl </code> </pre>
 
 Install Node.js (versi LTS)
 <pre> <code> curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
-sudo apt install -y nodejs <pre> <code> 
+sudo apt install -y nodejs </code> </pre>
 
 Cek versi
 <pre> <code>  node -v
-npm -v <pre> <code> 
+npm -v </code> </pre>
 
 Install Yarn
-<pre> <code> npm install --global yarn <pre> <code> 
+<pre> <code> npm install --global yarn </code> </pre>
 
 Cek versi
 yarn -v
