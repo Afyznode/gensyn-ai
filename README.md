@@ -27,7 +27,7 @@ Install Yarn
 <pre> <code> npm install --global yarn </code> </pre>
 
 Cek versi
-yarn -v
+<pre> <code> yarn -v </code> </pre>
 
 
 
