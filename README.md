@@ -15,18 +15,18 @@ Install Python
 
 <pre> <code> sudo apt install -y curl <pre> <code>
 
-# Install Node.js (versi LTS)
+Install Node.js (versi LTS)
 <pre> <code> curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
 sudo apt install -y nodejs <pre> <code> 
 
-# Cek versi
+Cek versi
 <pre> <code>  node -v
 npm -v <pre> <code> 
 
-# Install Yarn
+Install Yarn
 <pre> <code> npm install --global yarn <pre> <code> 
 
-# Cek versi
+Cek versi
 yarn -v
 
 
