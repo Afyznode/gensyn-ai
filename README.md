@@ -17,4 +17,4 @@ GPU (officially supported):
 
 2. Clone The Repository
 <pre> <code> bash git clone https://github.com/gensyn-ai/rl-swarm.git 
-cd rl-swarm</code> </pre>
+  cd rl-swarm</code> </pre>
