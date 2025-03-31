@@ -37,7 +37,7 @@ Cek versi
 <pre> <code> sudo apt-get update && sudo apt-get upgrade -y </code> </pre>
 
 2. Clone The Repository
-<pre> <code> bash git clone https://github.com/gensyn-ai/rl-swarm.git 
+<pre> <code> git clone https://github.com/gensyn-ai/rl-swarm.git 
   cd rl-swarm</code> </pre>
   
 3. Buat dan aktifkan virtual environment:
