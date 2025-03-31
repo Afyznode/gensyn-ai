@@ -21,11 +21,11 @@ GPU (officially supported):
   
 3. Buat dan aktifkan virtual environment:
 <pre> <code> python3 -m venv .venv
-source .venv/bin/activate </code> </pre>
+  source .venv/bin/activate </code> </pre>
 
 4. Instal dependensi
 <pre> <code> pip install -r requirements.txt </code> </pre>
 
 5. Jalankan RL Swarm 
 <pre> <code>  chmod +x run_rl_swarm.sh
-./run_rl_swarm.sh </code> </pre>
+  ./run_rl_swarm.sh </code> </pre>
