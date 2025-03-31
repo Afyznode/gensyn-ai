@@ -16,5 +16,4 @@ GPU (officially supported):
 <pre> <code> sudo apt-get update && sudo apt-get upgrade -y </code> </pre>
 
 2. Clone The Repository
-<pre> <code> bash git clone https://github.com/gensyn-ai/rl-swarm.git
-cd rl-swarm</code> </pre>
+<pre> <code> bash git clone https://github.com/gensyn-ai/rl-swarm.git cd rl-swarm</code> </pre>
