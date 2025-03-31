@@ -1,6 +1,6 @@
 # Run RL Swarm Node
-# Requirements
 
+# Requirements
 arm64 or x86 CPU Min. 16GB
 
 OR
@@ -11,4 +11,6 @@ GPU (officially supported):
 - A100
 - H100
 
-#arm64 or x86 
+# Install Dependencies
+1. Update System Packages
+   sudo apt-get update && sudo apt-get upgrade -y
