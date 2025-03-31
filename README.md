@@ -13,4 +13,4 @@ GPU (officially supported):
 
 # Install Dependencies
 1. Update System Packages
-   `sudo apt-get update && sudo apt-get upgrade -y`
+`sudo apt-get update && sudo apt-get upgrade -y`
